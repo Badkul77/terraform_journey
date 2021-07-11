@@ -10,3 +10,4 @@ variable admin_password {
   type    = string
   default = "Password1234!"
 }
+#it is to check
